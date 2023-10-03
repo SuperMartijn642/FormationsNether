@@ -1,0 +1,9 @@
+{
+  "type": "formations:simple",
+  "template": "formationsnether:sphere_cages",
+  "placement": "underground_buried",
+  "biomes": "#formationsnether:has_structure/sphere_cage",
+  "step": "surface_structures",
+  "terrain_adaptation": "bury",
+  "spawn_overrides": {}
+}

@@ -1,0 +1,15 @@
+{
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "formations:single_pool_element",
+        "location": "formationsnether:flaming_pillar",
+        "projection": "rigid",
+        "ground_level": 15,
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

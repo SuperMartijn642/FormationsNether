@@ -1,0 +1,9 @@
+{
+  "type": "formations:simple",
+  "template": "formationsnether:large_trees",
+  "placement": "underground_surface",
+  "biomes": "#formationsnether:has_structure/large_tree",
+  "step": "surface_structures",
+  "terrain_adaptation": "beard_thin",
+  "spawn_overrides": {}
+}

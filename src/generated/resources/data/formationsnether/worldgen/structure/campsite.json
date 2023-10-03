@@ -1,0 +1,9 @@
+{
+  "type": "formations:simple",
+  "template": "formationsnether:campsites",
+  "placement": "underground_surface",
+  "biomes": "#formationsnether:has_structure/campsite",
+  "step": "surface_structures",
+  "terrain_adaptation": "beard_thin",
+  "spawn_overrides": {}
+}

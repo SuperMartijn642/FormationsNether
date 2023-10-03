@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 1483793176,
+    "spacing": 3,
+    "separation": 1
+  },
+  "structures": [
+    {
+      "structure": "formationsnether:ore_shard",
+      "weight": 1
+    }
+  ]
+}

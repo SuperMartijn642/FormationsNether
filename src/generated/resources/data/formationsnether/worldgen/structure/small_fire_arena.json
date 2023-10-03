@@ -1,0 +1,9 @@
+{
+  "type": "formations:simple",
+  "template": "formationsnether:small_fire_arenas",
+  "placement": "underground_surface",
+  "biomes": "#formationsnether:has_structure/small_fire_arena",
+  "step": "surface_structures",
+  "terrain_adaptation": "beard_thin",
+  "spawn_overrides": {}
+}

@@ -1,0 +1,9 @@
+{
+  "type": "formations:simple",
+  "template": "formationsnether:ore_shards",
+  "placement": "underground_ceiling",
+  "biomes": "#formationsnether:has_structure/ore_shard",
+  "step": "underground_structures",
+  "terrain_adaptation": "none",
+  "spawn_overrides": {}
+}

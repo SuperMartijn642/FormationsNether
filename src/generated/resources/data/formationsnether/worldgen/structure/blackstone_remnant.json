@@ -1,0 +1,9 @@
+{
+  "type": "formations:simple",
+  "template": "formationsnether:blackstone_remnants",
+  "placement": "underground_surface",
+  "biomes": "#formationsnether:has_structure/blackstone_remnant",
+  "step": "surface_structures",
+  "terrain_adaptation": "beard_thin",
+  "spawn_overrides": {}
+}

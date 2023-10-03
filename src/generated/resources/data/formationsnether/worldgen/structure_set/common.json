@@ -1,0 +1,82 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 1359801681,
+    "spacing": 5,
+    "separation": 2
+  },
+  "structures": [
+    {
+      "structure": "formationsnether:basalt_hut",
+      "weight": 1
+    },
+    {
+      "structure": "formationsnether:blackstone_remnant",
+      "weight": 1
+    },
+    {
+      "structure": "formationsnether:campsite",
+      "weight": 1
+    },
+    {
+      "structure": "formationsnether:flaming_pillar",
+      "weight": 1
+    },
+    {
+      "structure": "formationsnether:large_house",
+      "weight": 1
+    },
+    {
+      "structure": "formationsnether:large_pedestal",
+      "weight": 1
+    },
+    {
+      "structure": "formationsnether:large_tree",
+      "weight": 1
+    },
+    {
+      "structure": "formationsnether:nether_wart_field",
+      "weight": 1
+    },
+    {
+      "structure": "formationsnether:obsidian_pillar",
+      "weight": 1
+    },
+    {
+      "structure": "formationsnether:parkour_challenge",
+      "weight": 1
+    },
+    {
+      "structure": "formationsnether:quartz_spikes",
+      "weight": 1
+    },
+    {
+      "structure": "formationsnether:respawn_anchor_altar",
+      "weight": 1
+    },
+    {
+      "structure": "formationsnether:rib_cage",
+      "weight": 1
+    },
+    {
+      "structure": "formationsnether:small_fire_arena",
+      "weight": 1
+    },
+    {
+      "structure": "formationsnether:small_lava_arena",
+      "weight": 1
+    },
+    {
+      "structure": "formationsnether:small_lava_shrine",
+      "weight": 1
+    },
+    {
+      "structure": "formationsnether:small_pedestal",
+      "weight": 1
+    },
+    {
+      "structure": "formationsnether:sphere_cage",
+      "weight": 1
+    }
+  ]
+}

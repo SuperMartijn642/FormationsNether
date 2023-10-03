@@ -1,0 +1,9 @@
+{
+  "type": "formations:simple",
+  "template": "formationsnether:quartz_spikes",
+  "placement": "underground_surface",
+  "biomes": "#formationsnether:has_structure/quartz_spikes",
+  "step": "surface_structures",
+  "terrain_adaptation": "beard_thin",
+  "spawn_overrides": {}
+}

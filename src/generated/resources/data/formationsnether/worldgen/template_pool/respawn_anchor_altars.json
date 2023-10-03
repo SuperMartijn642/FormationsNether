@@ -1,0 +1,23 @@
+{
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "formations:single_pool_element",
+        "location": "formationsnether:respawn_anchor_altar",
+        "projection": "rigid",
+        "ground_level": 1,
+        "processors": [
+          {
+            "processor_type": "formations:biome_replacements"
+          },
+          {
+            "processor_type": "formations:respawn_anchor_charges",
+            "value": {}
+          }
+        ]
+      }
+    }
+  ]
+}

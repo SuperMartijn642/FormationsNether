@@ -1,0 +1,9 @@
+{
+  "type": "formations:simple",
+  "template": "formationsnether:checkerboard_temples",
+  "placement": "underground_surface",
+  "biomes": "#formationsnether:has_structure/checkerboard_temple",
+  "step": "surface_structures",
+  "terrain_adaptation": "beard_thin",
+  "spawn_overrides": {}
+}

@@ -1,0 +1,34 @@
+{
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "formations:single_pool_element",
+        "location": "formationsnether:large_house",
+        "projection": "rigid",
+        "ground_level": 1,
+        "processors": [
+          {
+            "processor_type": "formations:biome_replacements"
+          },
+          {
+            "processor_type": "formations:random_plant_growth"
+          },
+          {
+            "maxBlazePowder": 5,
+            "processor_type": "formations:fill_brewing_stands"
+          },
+          {
+            "slotFillChance": 0.15,
+            "processor_type": "formations:fill_chiseled_bookshelves"
+          },
+          {
+            "processor_type": "formations:respawn_anchor_charges",
+            "value": {}
+          }
+        ]
+      }
+    }
+  ]
+}

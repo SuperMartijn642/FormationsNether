@@ -1,0 +1,9 @@
+{
+  "type": "formations:simple",
+  "template": "formationsnether:nether_wart_fields",
+  "placement": "underground_surface",
+  "biomes": "#formationsnether:has_structure/nether_wart_field",
+  "step": "surface_structures",
+  "terrain_adaptation": "beard_thin",
+  "spawn_overrides": {}
+}

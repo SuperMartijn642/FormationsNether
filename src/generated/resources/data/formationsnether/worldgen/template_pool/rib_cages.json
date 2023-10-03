@@ -1,0 +1,49 @@
+{
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "formations:single_pool_element",
+        "location": "formationsnether:rib_cage1",
+        "projection": "rigid",
+        "ground_level": 3,
+        "processors": [
+          {
+            "processor_type": "formations:biome_replacements"
+          },
+          {
+            "processor_type": "formations:random_plant_growth"
+          },
+          {
+            "slotFillChance": 0.3,
+            "maxBlazePowder": 6,
+            "processor_type": "formations:fill_brewing_stands"
+          }
+        ]
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "formations:single_pool_element",
+        "location": "formationsnether:rib_cage2",
+        "projection": "rigid",
+        "ground_level": 3,
+        "processors": [
+          {
+            "processor_type": "formations:biome_replacements"
+          },
+          {
+            "processor_type": "formations:random_plant_growth"
+          },
+          {
+            "slotFillChance": 0.3,
+            "maxBlazePowder": 6,
+            "processor_type": "formations:fill_brewing_stands"
+          }
+        ]
+      }
+    }
+  ]
+}

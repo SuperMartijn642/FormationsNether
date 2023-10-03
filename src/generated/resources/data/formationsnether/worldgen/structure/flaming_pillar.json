@@ -1,0 +1,9 @@
+{
+  "type": "formations:simple",
+  "template": "formationsnether:flaming_pillars",
+  "placement": "underground_on_lava",
+  "biomes": "#formationsnether:has_structure/flaming_pillar",
+  "step": "surface_structures",
+  "terrain_adaptation": "none",
+  "spawn_overrides": {}
+}

@@ -1,0 +1,9 @@
+{
+  "type": "formations:simple",
+  "template": "formationsnether:obsidian_pillars",
+  "placement": "underground_surface",
+  "biomes": "#formationsnether:has_structure/obsidian_pillar",
+  "step": "surface_structures",
+  "terrain_adaptation": "beard_thin",
+  "spawn_overrides": {}
+}

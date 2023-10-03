@@ -1,0 +1,9 @@
+{
+  "type": "formations:simple",
+  "template": "formationsnether:rib_cages",
+  "placement": "underground_surface",
+  "biomes": "#formationsnether:has_structure/rib_cage",
+  "step": "surface_structures",
+  "terrain_adaptation": "beard_thin",
+  "spawn_overrides": {}
+}

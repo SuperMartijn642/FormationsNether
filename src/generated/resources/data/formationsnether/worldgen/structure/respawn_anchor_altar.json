@@ -1,0 +1,9 @@
+{
+  "type": "formations:simple",
+  "template": "formationsnether:respawn_anchor_altars",
+  "placement": "underground_surface",
+  "biomes": "#formationsnether:has_structure/respawn_anchor_altar",
+  "step": "surface_structures",
+  "terrain_adaptation": "beard_thin",
+  "spawn_overrides": {}
+}

@@ -1,0 +1,27 @@
+{
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "formations:single_pool_element",
+        "location": "formationsnether:sphere_cage1",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "formations:single_pool_element",
+        "location": "formationsnether:sphere_cage2",
+        "projection": "rigid",
+        "processors": [
+          {
+            "processor_type": "formations:biome_replacements"
+          }
+        ]
+      }
+    }
+  ]
+}

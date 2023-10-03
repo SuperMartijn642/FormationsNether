@@ -1,0 +1,9 @@
+{
+  "type": "formations:simple",
+  "template": "formationsnether:basalt_huts",
+  "placement": "underground_surface",
+  "biomes": "#formationsnether:has_structure/basalt_hut",
+  "step": "underground_structures",
+  "terrain_adaptation": "beard_thin",
+  "spawn_overrides": {}
+}
