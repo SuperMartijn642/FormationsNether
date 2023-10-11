@@ -1,9 +1,9 @@
-// this.cache.versionId	2023-10-03T14:50:22.3033689	Core Lib Generators
+// this.cache.versionId	2023-10-11T13:27:08.5662422	Core Lib Generators
 5a4e7ff7d6bf1a83b72622bb11a96c074c7bb3d8 data\formationsnether\worldgen\structure\rib_cage.json
 339af055b4a6147c8442d1cbd98ffd057ec2d79d data\formationsnether\loot_tables\small_lava_shrine.json
 1aab15c53ba40daa027418cedea329f452731904 data\formationsnether\tags\worldgen\biome\has_structure\small_pedestal.json
 2cc4fbe0c829d22a5ad695d6129ff83a51225840 data\formationsnether\worldgen\structure_set\rare.json
-86e7c3b1126ac102f9f843ba71fc8c2b06933cb5 data\formationsnether\loot_tables\small_fire_arena.json
+bf8fcf7a9bd825eab7c71e8191eaa8d0060488eb data\formationsnether\loot_tables\small_fire_arena.json
 a776f600e95078473c58d4238fa0bdf549b33729 data\formationsnether\loot_tables\blackstone_remnant.json
 7d5941e8e3343232ad51784184e6ad28a4dc2047 data\formationsnether\tags\worldgen\biome\has_structure\quartz_spikes.json
 6a1e3aef18a434ddbff174dd6560fa8fbdd877f8 data\formationsnether\worldgen\structure\campsite.json

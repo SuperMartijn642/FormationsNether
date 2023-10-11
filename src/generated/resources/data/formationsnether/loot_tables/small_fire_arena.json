@@ -201,10 +201,6 @@
             }
           ],
           "name": "minecraft:book"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:totem_of_undying"
         }
       ]
     }

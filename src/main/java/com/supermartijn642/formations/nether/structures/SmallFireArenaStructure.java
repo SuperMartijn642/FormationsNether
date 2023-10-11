@@ -56,7 +56,6 @@ public class SmallFireArenaStructure extends StructureConfigurator {
                     .enchantedItemEntry(Items.IRON_LEGGINGS, 20, 35, false, 2)
                     .enchantedItemEntry(Items.IRON_BOOTS, 20, 35, false, 2)
                     .enchantedItemEntry(Items.BOOK, 20, 35, false, 4)
-                    .itemEntry(Items.TOTEM_OF_UNDYING)
             );
     }
 }
