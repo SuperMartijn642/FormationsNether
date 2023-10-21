@@ -7,7 +7,7 @@ import com.supermartijn642.formations.generators.StructureSetKey;
  */
 public class StructureSets {
 
-    public static final StructureSetKey ORE_SHARDS = new StructureSetKey("ore_shards", 3, 1);
+    public static final StructureSetKey ORE_SHARDS = new StructureSetKey("ore_shards", 4, 1);
     public static final StructureSetKey COMMON = new StructureSetKey("common", 5, 2);
     public static final StructureSetKey RARE = new StructureSetKey("rare", 15, 10);
 }

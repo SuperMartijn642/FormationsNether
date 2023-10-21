@@ -1,4 +1,4 @@
-// this.cache.versionId	2023-10-11T13:27:08.5662422	Core Lib Generators
+// this.cache.versionId	2023-10-21T22:56:25.9295746	Core Lib Generators
 5a4e7ff7d6bf1a83b72622bb11a96c074c7bb3d8 data\formationsnether\worldgen\structure\rib_cage.json
 339af055b4a6147c8442d1cbd98ffd057ec2d79d data\formationsnether\loot_tables\small_lava_shrine.json
 1aab15c53ba40daa027418cedea329f452731904 data\formationsnether\tags\worldgen\biome\has_structure\small_pedestal.json
@@ -21,7 +21,7 @@ a7c7f3afb24769d5d7a5ade030cf808b9403feb5 data\formationsnether\worldgen\template
 4c363e95c905b3da3a7d4b7718641331f297b095 data\formationsnether\worldgen\template_pool\small_lava_shrines.json
 9cf172a46bd6c8871f909e3232fd2d85ba37aaee data\formationsnether\loot_tables\sphere_cage\wither.json
 d21d8724c64ca2951c94153e75131af8dce21c67 data\formationsnether\tags\worldgen\biome\has_structure\parkour_challenge.json
-2fe9763f54066aa4a715d88ae72ba89f080aa47c data\formationsnether\worldgen\structure_set\ore_shards.json
+c0fcf8c600578a389c36d88b4eae1ab071acb5c3 data\formationsnether\worldgen\structure_set\ore_shards.json
 84c14e95b6a2c1a4e02e951e513484eaead641cb data\formationsnether\tags\worldgen\biome\has_structure\obsidian_pillar.json
 d21d8724c64ca2951c94153e75131af8dce21c67 data\formationsnether\tags\worldgen\biome\has_structure\small_lava_shrine.json
 4e84d5a8d526b74eac0e4828931ca2228c6979b9 data\formationsnether\worldgen\structure\small_fire_arena.json
