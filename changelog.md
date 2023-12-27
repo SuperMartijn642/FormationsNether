@@ -1,3 +1,6 @@
+### Formations Nether 1.0.3
+- Allow mod to be loaded on NeoForge
+
 ### Formations Nether 1.0.2
 - Significantly decreased valuables found in ore shards structures
 - Slightly decreased the spawning of ore shard structures
