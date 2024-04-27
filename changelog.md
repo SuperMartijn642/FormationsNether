@@ -1,3 +1,6 @@
+### Formations Nether 1.0.4
+- On Forge, servers with Formations Nether will now show as compatible to clients without it
+
 ### Formations Nether 1.0.3
 - Allow mod to be loaded on NeoForge
 
