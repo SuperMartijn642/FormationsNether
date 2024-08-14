@@ -24,8 +24,7 @@
             "processor_type": "formations:fill_chiseled_bookshelves"
           },
           {
-            "processor_type": "formations:respawn_anchor_charges",
-            "value": {}
+            "processor_type": "formations:respawn_anchor_charges"
           }
         ]
       }

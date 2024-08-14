@@ -1,0 +1,208 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "min": 5.0,
+        "max": 6.0,
+        "type": "minecraft:uniform"
+      },
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 2.0,
+                "type": "minecraft:uniform"
+              },
+              "add": false,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:bone",
+          "weight": 15,
+          "type": "minecraft:item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 2.0,
+                "type": "minecraft:uniform"
+              },
+              "add": false,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:coal",
+          "weight": 15,
+          "type": "minecraft:item"
+        },
+        {
+          "name": "minecraft:wither_rose",
+          "weight": 2,
+          "type": "minecraft:item"
+        },
+        {
+          "name": "minecraft:wither_skeleton_skull",
+          "type": "minecraft:item"
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "min": 1.0,
+        "max": 2.0,
+        "type": "minecraft:uniform"
+      },
+      "entries": [
+        {
+          "functions": [
+            {
+              "levels": {
+                "min": 20.0,
+                "max": 35.0,
+                "type": "minecraft:uniform"
+              },
+              "options": "#minecraft:on_random_loot",
+              "function": "minecraft:enchant_with_levels"
+            }
+          ],
+          "name": "minecraft:iron_sword",
+          "weight": 2,
+          "type": "minecraft:item"
+        },
+        {
+          "functions": [
+            {
+              "levels": {
+                "min": 20.0,
+                "max": 35.0,
+                "type": "minecraft:uniform"
+              },
+              "options": "#minecraft:on_random_loot",
+              "function": "minecraft:enchant_with_levels"
+            }
+          ],
+          "name": "minecraft:iron_pickaxe",
+          "weight": 2,
+          "type": "minecraft:item"
+        },
+        {
+          "functions": [
+            {
+              "levels": {
+                "min": 20.0,
+                "max": 35.0,
+                "type": "minecraft:uniform"
+              },
+              "options": "#minecraft:on_random_loot",
+              "function": "minecraft:enchant_with_levels"
+            }
+          ],
+          "name": "minecraft:iron_axe",
+          "weight": 2,
+          "type": "minecraft:item"
+        },
+        {
+          "functions": [
+            {
+              "levels": {
+                "min": 20.0,
+                "max": 35.0,
+                "type": "minecraft:uniform"
+              },
+              "options": "#minecraft:on_random_loot",
+              "function": "minecraft:enchant_with_levels"
+            }
+          ],
+          "name": "minecraft:iron_shovel",
+          "weight": 2,
+          "type": "minecraft:item"
+        },
+        {
+          "functions": [
+            {
+              "levels": {
+                "min": 20.0,
+                "max": 35.0,
+                "type": "minecraft:uniform"
+              },
+              "options": "#minecraft:on_random_loot",
+              "function": "minecraft:enchant_with_levels"
+            }
+          ],
+          "name": "minecraft:iron_helmet",
+          "weight": 2,
+          "type": "minecraft:item"
+        },
+        {
+          "functions": [
+            {
+              "levels": {
+                "min": 20.0,
+                "max": 35.0,
+                "type": "minecraft:uniform"
+              },
+              "options": "#minecraft:on_random_loot",
+              "function": "minecraft:enchant_with_levels"
+            }
+          ],
+          "name": "minecraft:iron_chestplate",
+          "weight": 2,
+          "type": "minecraft:item"
+        },
+        {
+          "functions": [
+            {
+              "levels": {
+                "min": 20.0,
+                "max": 35.0,
+                "type": "minecraft:uniform"
+              },
+              "options": "#minecraft:on_random_loot",
+              "function": "minecraft:enchant_with_levels"
+            }
+          ],
+          "name": "minecraft:iron_leggings",
+          "weight": 2,
+          "type": "minecraft:item"
+        },
+        {
+          "functions": [
+            {
+              "levels": {
+                "min": 20.0,
+                "max": 35.0,
+                "type": "minecraft:uniform"
+              },
+              "options": "#minecraft:on_random_loot",
+              "function": "minecraft:enchant_with_levels"
+            }
+          ],
+          "name": "minecraft:iron_boots",
+          "weight": 2,
+          "type": "minecraft:item"
+        },
+        {
+          "functions": [
+            {
+              "levels": {
+                "min": 20.0,
+                "max": 35.0,
+                "type": "minecraft:uniform"
+              },
+              "options": "#minecraft:on_random_loot",
+              "function": "minecraft:enchant_with_levels"
+            }
+          ],
+          "name": "minecraft:book",
+          "weight": 4,
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

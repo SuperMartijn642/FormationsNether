@@ -47,15 +47,15 @@ public class SmallFireArenaStructure extends StructureConfigurator {
             )
             .pool(pool ->
                 pool.uniformRolls(1, 2)
-                    .enchantedItemEntry(Items.IRON_SWORD, 20, 35, false, 2)
-                    .enchantedItemEntry(Items.IRON_PICKAXE, 20, 35, false, 2)
-                    .enchantedItemEntry(Items.IRON_AXE, 20, 35, false, 2)
-                    .enchantedItemEntry(Items.IRON_SHOVEL, 20, 35, false, 2)
-                    .enchantedItemEntry(Items.IRON_HELMET, 20, 35, false, 2)
-                    .enchantedItemEntry(Items.IRON_CHESTPLATE, 20, 35, false, 2)
-                    .enchantedItemEntry(Items.IRON_LEGGINGS, 20, 35, false, 2)
-                    .enchantedItemEntry(Items.IRON_BOOTS, 20, 35, false, 2)
-                    .enchantedItemEntry(Items.BOOK, 20, 35, false, 4)
+                    .enchantedItemEntry(Items.IRON_SWORD, 20, 35, 2)
+                    .enchantedItemEntry(Items.IRON_PICKAXE, 20, 35, 2)
+                    .enchantedItemEntry(Items.IRON_AXE, 20, 35, 2)
+                    .enchantedItemEntry(Items.IRON_SHOVEL, 20, 35, 2)
+                    .enchantedItemEntry(Items.IRON_HELMET, 20, 35, 2)
+                    .enchantedItemEntry(Items.IRON_CHESTPLATE, 20, 35, 2)
+                    .enchantedItemEntry(Items.IRON_LEGGINGS, 20, 35, 2)
+                    .enchantedItemEntry(Items.IRON_BOOTS, 20, 35, 2)
+                    .enchantedItemEntry(Items.BOOK, 20, 35, 4)
             );
     }
 }

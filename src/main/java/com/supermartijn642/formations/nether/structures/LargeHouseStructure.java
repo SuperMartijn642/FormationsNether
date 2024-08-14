@@ -46,7 +46,7 @@ public class LargeHouseStructure extends StructureConfigurator {
                     .itemEntry(Items.WARPED_FUNGUS)
                     .itemEntry(Items.CRIMSON_FUNGUS)
                     .itemEntry(Items.MAGMA_CREAM)
-                    .enchantedItemEntry(Items.GOLDEN_SWORD, 25, 35, true, 1)
+                    .enchantedItemEntry(Items.GOLDEN_SWORD, 25, 35, 1)
                     .itemEntry(Items.NETHER_WART, 1, 2, 1)
                     .itemEntry(Items.BLAZE_POWDER, 1, 2, 1)
                     .itemEntry(Items.GOLDEN_APPLE)

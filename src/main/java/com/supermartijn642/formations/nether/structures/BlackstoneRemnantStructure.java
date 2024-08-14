@@ -46,7 +46,7 @@ public class BlackstoneRemnantStructure extends StructureConfigurator {
             )
             .pool(pool ->
                 pool.uniformRolls(0, 1)
-                    .enchantedItemEntry(Items.BOW, 10, 20, false, 1)
+                    .enchantedItemEntry(Items.BOW, 10, 20, 1)
             );
     }
 }

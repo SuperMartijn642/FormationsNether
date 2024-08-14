@@ -13,8 +13,7 @@
             "processor_type": "formations:biome_replacements"
           },
           {
-            "processor_type": "formations:respawn_anchor_charges",
-            "value": {}
+            "processor_type": "formations:respawn_anchor_charges"
           }
         ]
       }
