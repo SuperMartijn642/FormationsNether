@@ -1,3 +1,6 @@
+### Formations Nether 1.0.5a
+- Fixed crash on Fabric with Minecraft 26.1+
+
 ### Formations Nether 1.0.5
 - Added support for NeoForge 1.20.5+
 
