@@ -1,3 +1,6 @@
+### Formations Nether 1.0.5b
+- Added icon and banner images for new NeoForge 26.2.0.50-beta mod list
+
 ### Formations Nether 1.0.5a
 - Fixed crash on Fabric with Minecraft 26.1+
 
